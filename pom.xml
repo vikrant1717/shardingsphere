@@ -189,6 +189,7 @@
         <taglist-maven-plugin.version>2.4</taglist-maven-plugin.version>
         <jacoco-maven-plugin.version>0.8.14</jacoco-maven-plugin.version>
         <dependency-check-maven.version>12.1.6</dependency-check-maven.version>
+        <sonar.organization>vikrant1717</sonar.organization>
     </properties>
     
     <dependencyManagement>
